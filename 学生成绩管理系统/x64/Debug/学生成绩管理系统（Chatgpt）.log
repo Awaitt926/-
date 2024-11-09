@@ -1,0 +1,5 @@
+﻿D:\C++ Visual Studio IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(学生成绩管理系统（Chatgpt）.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  3.cpp
+D:\C++存放\vs c++\学生成绩管理系统（Chatgpt）\3.cpp(15,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\C++存放\vs c++\学生成绩管理系统（Chatgpt）\3.cpp(15,24): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\C++存放\vs c++\学生成绩管理系统（Chatgpt）\3.cpp(42,61): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
